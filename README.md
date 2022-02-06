@@ -17,5 +17,9 @@
 - [6. Conclusions](#conclusiones)
 
 <a id="abs"> </a>
-<h2 class=#abs> 1.Abstract </h2>
-<p style="font:10px"> The main goal of this proyect is to apply machine learning classification methods to predict if a rookie player will stay over 5 years, therefore be promoted to the professional category</p>   
+<h2> 1.Abstract </h2>
+<p style="font:10px"> It is a simple project where the main goal is to apply machine learning classification methods to predict if a rookie player will stay over five years. Therefore promote to the professional category.</p>
+
+<a id="intro"></a>
+<h2> 2.Introducción </h2>
+<p>The National Basket Association (NBA) is one of the most popular and recognized leagues. It is a billion dollars business with millions of viewers around the world. Only in 2018-2019, the combined avenue of teams of the NBA was over 8.7 billion dollars(Nguyen et. al 2021). The main aim of this study is to evaluate the effectiveness of applying Machine Learning (ML) techniques to predict players' future performance, through their primary statistics. To achieve this goal, It will apply basic supervise classification ML methods, such as Dummies Classifier (for establishing a baseline) KNN, Naive Bayes and Logistic Regression.   </p>
