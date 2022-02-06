@@ -15,3 +15,7 @@
     - [4.4. Logistic Regression](#RL)
 - [5. Results](#resul)
 - [6. Conclusions](#conclusiones)
+
+<a id="obj"> </a>
+<h2 class=#obj> 1.Objetivos </h2>
+<p style="font:10px"> Aplicar tecnicas de a Machine Learning para predecir a través de features de performance si un jugador de la National Basketball Association (NBA) en categoría Rookie permanecerá un tiempo superior a 5 años y avanzará a categoría profesional.</p>   
