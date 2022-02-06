@@ -2,7 +2,7 @@
 
 ## Index
 
-- [1.Objtive](#obj)
+- [1.Objetive](#obj)
 - [2. Introduction](#intro)
 - [3. Materials](#materiales)
     - [3.1. Data](#data)
