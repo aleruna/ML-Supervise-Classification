@@ -2,7 +2,7 @@
 
 ## Index
 
-- [1.Abstract](#obj)
+- [1.Abstract](#abs)
 - [2. Introduction](#intro)
 - [3. Materials](#materiales)
     - [3.1. Data](#data)
@@ -16,6 +16,6 @@
 - [5. Results](#resul)
 - [6. Conclusions](#conclusiones)
 
-<a id="obj"> </a>
-<h2 class=#obj> 1.Objetivos </h2>
-<p style="font:10px"> Aplicar tecnicas de a Machine Learning para predecir a través de features de performance si un jugador de la National Basketball Association (NBA) en categoría Rookie permanecerá un tiempo superior a 5 años y avanzará a categoría profesional.</p>   
+<a id="abs"> </a>
+<h2 class=#abs> 1.Abstract </h2>
+<p style="font:10px"> The main goal of this proyect is to apply machine learning classification methods to predict if a rookie player will stay over 5 years, therefore be promoted to the professional category</p>   
