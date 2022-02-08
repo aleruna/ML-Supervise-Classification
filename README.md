@@ -12,7 +12,7 @@
     - [4.2. Naive Bayes](#NB)
     - [4.3.Gaussian ](#GB)
     - [4.4. Logistic Regression](#RL)
-- [5. Results](#resul)
+- [5. Results](#result)
 - [6. Conclusions](#conclusiones)
 
 <a id="abs"> </a>
@@ -33,3 +33,5 @@ Given the low number of null data, we decided to drop them, which resulted in th
 <a id="data_analysis"></a>
 <h3> 3.2 Data Analysis</h3>
 A diagram is made to visualize the correlation between all the features but also how they interact with the target. 
+
+<p>Disclaimer: I'm not a native english speaker so sorry for any mistake on the text </p>
