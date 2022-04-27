@@ -1,4 +1,6 @@
-# rookies_NBA
+# Sports Analytic :
+
+# Machine Learning Supervise Classification
 
 ## Index
 
