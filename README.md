@@ -73,7 +73,7 @@ This model had the best result whit recall= 0.82 and F1-Score = 0.77 <br>
 | Recall   | 0.74 | 0.66          | 0.56       | 0.77      | 0.82          |
 | F1-Score | 0.74 | 0.69          | 0.66       | 0.74      | 0.77          |
 
-![roc curve](roc_curve.jpg)
+![roc curve](https://github.com/aleruna/ML-Supervise-Classification/blob/main/roc_curve.JPG)
 
 On the other hand, the sample of 10% of the database that had been previously extracted, shows good results with more than 70% of the class predicted.
 
